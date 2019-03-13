@@ -1,2 +1,2 @@
 # AmygNet_subregions
-Code coming soon.
+Please go to the other repository of mine:  Bayesian_AmygNet_Subnuclei. Thanks.
